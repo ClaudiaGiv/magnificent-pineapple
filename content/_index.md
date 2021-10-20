@@ -16,7 +16,7 @@ sections:
     title: About
     content: "Sunt programator de  5 ani si trainer de programare de 3 ani.\n\nDin aceasta experienta am acumulat cunostinte foarte valoroase si utile din domeniul programarii pe care vreau sa le dau mai departe prin intermediul articolelor din acest blog.\n\nSpor la invatat! [\U0001F4D6](https://emojipedia.org/open-book/)\n\n"
     actions:
-      - label: Contact Me
+      - label: contacteaza-ma
         url: /contact
         style: button
   - section_id: recent-posts
