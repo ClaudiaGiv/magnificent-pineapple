@@ -21,7 +21,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: select
-        name: subject
+        name: subiect
         label: Subiect
         default_value: Selecteaza
         options:
