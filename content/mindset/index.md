@@ -1,6 +1,6 @@
 ---
 title: Mindset
-subtitle: lorem-ipsum
+subtitle: Mindset-ul de programator se contruieste in timp
 img_alt: lorem-ipsum
 seo:
   title: ''
