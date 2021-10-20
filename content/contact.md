@@ -23,7 +23,7 @@ sections:
       - input_type: select
         name: subject
         label: Subiect
-        default_value: Selecte
+        default_value: Selecteaza
         options:
           - Eroare pe site
           - Sponsorizare
