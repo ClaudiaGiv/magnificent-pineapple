@@ -13,7 +13,7 @@ sections:
       inveti programare in cel mai simplu si eficient mod.
   - section_id: about
     type: section_content
-    title: About
+    title: Despre
     content: "Sunt programator de  5 ani si trainer de programare de 3 ani.\n\nDin aceasta experienta am acumulat cunostinte foarte valoroase si utile din domeniul programarii pe care vreau sa le dau mai departe prin intermediul articolelor din acest blog.\n\nSpor la invatat! [\U0001F4D6](https://emojipedia.org/open-book/)\n\n"
     actions:
       - label: contacteaza-ma
