@@ -7,7 +7,7 @@ excerpt: >-
 date: '2019-03-27'
 thumb_img_path: images/intro.jpg
 thumb_img_alt: Icelandic horses
-content_img_path: images/8.jpg
+content_img_path: images/intro.jpg
 content_img_alt: Icelandic horses
 seo:
   title: Fragments of Iceland
