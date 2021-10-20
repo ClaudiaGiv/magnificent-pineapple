@@ -27,12 +27,6 @@ sections:
       - label: View Blog
         url: blog/index.html
         style: button
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
