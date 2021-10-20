@@ -33,61 +33,58 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Ce este un limbaj de programare ?
 
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
 
-# This is an H1
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
+Pentru început doresc să definesc ceea ce se înțelege prin **limbaj de programare**. O definiție ar fi: „Un **limbaj de programare **este un set bine definit de expresii, reguli și tehnici valide de formulare a instrucțiunilor pentru un computer”. Pe lângă definiție, [sursa Wikipedia](https://ro.wikipedia.org/wiki/Limbaj_de_programare) mai prezintă și alte noțiuni introductive și utile.
 
-## This is an H2
+În continuare mă voi folosi de definiție pentru a face o introducere a limbajului de programare:
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+##### **Un set bine definit de:**
 
-### This is an H3
+*   **Expresii**. Exemplu: ‘a > b’.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+*   **Reguli**. Exemplu: Unele limbaje cer semnul ‘;’  după fiecare expresie. Este o regulă de care mulți programatori uită, iar în unele limbaje de programare chiar s-a renunțat la această obligativitate.
 
-#### This is an H4
+*   **Tehnici**. Exemplu: Moștenirea (eng. Inheritance) este una din cele patru concepte ale Programării Orientate pe Obiect – (eng. [Object-Oriented Programming](http://www.adobe.com/devnet/actionscript/learning/oop-concepts/inheritance.html) – OOP). Dacă nu ai auzit până acum despre concepte, nu te îngrijora, ci privește-le ca atare. Vei ajunge inevitabil să le cunoști și să lucrezi cu ele.
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
+Învățând un limbaj de programare, practic, te vei familiariza cu aceste expresii, reguli și tehnici care sunt relativ asemănătoare în toate limbajele de programare.
 
-## Quoting
+##### **Debugging**
 
->Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>Scott Adams</cite>
+Continuând analiza definiției limbajului de programare, observăm că aceste trei componente menționate mai sus trebuie să fie **valide**.  Un computer nu acceptă expresii eronate și va atenționa programatorul cu privire la erorile de sintaxă. Procesul prin care programatorul evaluează codul în scopul de a identifica erori sau comportamente nedorite se numește **debugging. **Nu trebuie să reții acum acest termen. Ca programator vei petrece mare parte din timpul tău făcând **debugging** și vei deveni foarte familiar cu acest proces. Unii sunt de părere că acest proces ‘răpește’ mai mult timp decât producerea de cod în sine.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+##### **Clean Code**
 
-<hr />
+Penultimul aspect pe care îl analizăm din definiția limbajului de programare face referire la **formularea instrucțiunilor. **În programare există anumite standarde când vine vorba de redactarea și organizarea codului. Deși computerul probabil nu se va ‘plânge’ de modul în care ai organizat codul, nu tot același lucru îl vor face colegii tăi programatori care vor întreține sau dezvolta codul tău ;). Introduc aici conceptul de **Clean Code **pe care personal îl definesc ca fiind ‘arta de a scrie cod’. E de preferat ca un programator începător să își însușească ‘Best practices’, precum și conceptul de Clean Code, încă din primele faze ale pregătirii. Obiceiurile greșite pot fi greu de gestionat. Recomand două cărți pe acest subiect. Acestea pot fi găsite la secțiunea [Resurse – Cărți. ](http://euprogramator.ro/resurse-carti/) Este vorba de Clean Code și Code Complete.
 
-## Unordered Lists
+Ultimul aspect, deloc de neglijat, al definiției limbajului de programare se referă la ‘computer’. Codul scris de programator este destinat să ruleze pe o anumită platformă, prin urmare, orice programator trebuie să cunoască platforma pentru care scrie cod (Computer, Smartphone, Server etc).
 
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
+# Scopul unui limbaj de programare
 
-## Ordered Lists
+Pentru a răspunde la întrebarea „**Ce limbaj de programare să învăț ?**„, trebuie pus în discuție faptul că fiecare limbaj de programare are un scop pentru care a fost conceput și o arie în care se pretează a fi utilizat.
 
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
+Limbajele se pot clasifica în **Low-Level** (mai aproape modul în care ‘înțelege’ computerul) sau **High-Level** (mai aproape de modul în care înțelege omul). Ce limbaj de programare să învăț ? Probabil pentru început e pretabil unul din categoria High-Level.
+
+Majoritatea limbajelor de programare sunt încadrate și în categoria [General Purpose](https://en.wikipedia.org/wiki/General-purpose_programming_language). Acestea sunt folosite în domenii ca Web Development sau Mobile App Development.
+
+Un alt domeniu mare și răspândit în industrie este Embedded Systems, în care, bineînțeles, sunt folosite limbaje Low-Level, dar nu numai.
+
+La întrebarea „Ce limbaj de programare să învăț ?” voi răspunde tot cu o întrebare: „Care este domeniul în care dorești să te dezvolți ?” (Web, Mobile, Embedded sau altul).
+
+Pe [Quora](https://www.quora.com/What-is-the-purpose-of-programming-languages) se găsește, deasemenea, o întrebare referitoare la scopul limbajelor de programare.
 
 ## Code Blocks
 
 Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
 
-```
-<!-- Some example CSS code -->
-body {
-  color: #333;
-  font-family: Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-}
-```
+    <!-- Some example CSS code -->
+    body {
+      color: #333;
+      font-family: Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.5;
+    }
 
 ## Tables
 
