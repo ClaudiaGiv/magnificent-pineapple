@@ -24,7 +24,7 @@ sections:
     title: Postari recente
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: Vezi blog
         url: blog/index.html
         style: button
 seo:
