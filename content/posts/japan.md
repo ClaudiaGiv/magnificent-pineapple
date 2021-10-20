@@ -4,7 +4,7 @@ excerpt: Programarea se invata prin exercitiu.
 date: '2019-03-24'
 thumb_img_path: images/1.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
-content_img_path: images/2.jpg
+content_img_path: images/1.jpg
 content_img_alt: Fushimi Inari Shrine in Kyoto
 seo:
   title: A Weekend in Japan
