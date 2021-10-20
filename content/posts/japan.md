@@ -1,10 +1,6 @@
 ---
 title: Cum incepi sa inveti programare?
-excerpt: >-
-  The Shrines of Ise have been celebrated as the prototype of Japanese
-  architecture. Largely of wood, traditional housing and many temple buildings
-  see the use of tatami mats and sliding doors that break down the distinction
-  between rooms and indoor and outdoor space.
+excerpt: Programarea se invata prin exercitiu.
 date: '2019-03-24'
 thumb_img_path: images/1.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
