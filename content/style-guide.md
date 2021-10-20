@@ -1,9 +1,6 @@
 ---
 title: Programare
-subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+subtitle: "Programarea calculatorului\_este o activitate\_informatică\_de elaborare a produselor-program, a\_programelor\_(software) necesare activităților realizate cu ajutorul\_calculatorului. Programarea informatică conține următoarele subactivități: specificarea, proiectarea, implementarea, documentarea și întreținerea produsului program."
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
