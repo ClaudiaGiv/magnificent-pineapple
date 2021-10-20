@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-> "Puteți produce în masă hardware; nu puteți produce software în masă - nu puteți produce în masă mintea umană." - 
+> *"Puteți produce în masă hardware; nu puteți produce software în masă - nu puteți produce în masă mintea umană." -*
 >
 > Michio Kaku
 
@@ -54,6 +54,6 @@ Cred în construirea de relații câștig-câștig și a calității valorii. Ch
 Sunt interesat de investiții financiare și de a găsi informații din lumea antreprenorială.
 Nu în ultimul rând, îmi place să predau, considerându-l cel mai înalt nivel de înțelegere.
 
-> „Când unul învață, doi învață”. 
+> *„Când unul învață, doi învață”.*
 >
 > \- Robert Heinlein
