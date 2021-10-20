@@ -5,9 +5,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Salut, sunt Claudia Givan'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Bine ai venit pe blogul meu.
+
+
+      Aici o sa gasesti o serie de articole de programare care sa te ajute sa
+      inveti programare in cel mai simplu si eficient mod.
   - section_id: about
     type: section_content
     title: About
