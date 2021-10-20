@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: images/avatar.png
 ---
 ## Lorem ipsum
 
