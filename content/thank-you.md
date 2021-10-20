@@ -6,5 +6,4 @@ layout: page
 ---
 Multumesc pentru mesaj! O sa te contactez in curand.
 
-**Zi frumoasa! **🤗
-
+#### Zi frumoasa! 🤗
