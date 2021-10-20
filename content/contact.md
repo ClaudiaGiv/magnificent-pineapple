@@ -35,8 +35,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Inteleg ca acest formular salveaza datele mele pentru a putea fi
+          contactat inapoi.
     submit_label: Send Message
 seo:
   title: Contact
