@@ -31,9 +31,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-> *"Puteți produce în masă hardware; nu puteți produce software în masă - nu puteți produce în masă mintea umană." -*
+> *"You can mass-produce hardware; you cannot mass-produce software - you cannot mass-produce the human mind." *
 >
-> Michio Kaku
+> *-*Michio Kaku
 
 Sunt pasionat de scrierea codului, dar nu orice cod, un cod curat, testabil și eficient. Fiecare provocare pe care o întâlnesc în viața de programare este o oportunitate pentru mine de a găsi un mod mai creativ și mai eficient de a implementa software-ul.
 
@@ -54,6 +54,6 @@ Cred în construirea de relații câștig-câștig și a calității valorii. Ch
 Sunt interesat de investiții financiare și de a găsi informații din lumea antreprenorială.
 Nu în ultimul rând, îmi place să predau, considerându-l cel mai înalt nivel de înțelegere.
 
-> *„Când unul învață, doi învață”.*
+> *"When one teaches, two learn." *
 >
 > \- Robert Heinlein
