@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-> "You can mass-produce hardware; you cannot mass-produce software - you cannot mass-produce the human mind." 
+> *You can mass-produce hardware; you cannot mass-produce software - you cannot mass-produce the human mind.*
 >
 > Michio Kaku
 
@@ -54,6 +54,6 @@ Cred în construirea de relații câștig-câștig și a calității valorii. Ch
 Sunt interesat de investiții financiare și de a găsi informații din lumea antreprenorială.
 Nu în ultimul rând, îmi place să predau, considerându-l cel mai înalt nivel de înțelegere.
 
-> *"When one teaches, two learn." *
+> *When one teaches, two learn.*
 >
 > \- Robert Heinlein
