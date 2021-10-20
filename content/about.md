@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Despre mine
 subtitle: Aceasta este o pagina cu descrierea mea ca programator.
 img_path: images/dsc_2426.jpg
 img_alt: Portrait of a man with beard and mustache
