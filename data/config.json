@@ -84,7 +84,17 @@
         ]
     },
     "footer": {
-        "content": "&copy; Claudia Givan. Toate drepturile rezervate."
+        "content": "&copy; Claudia Givan. Toate drepturile rezervate.",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
     },
     "domain": "claudia-blog"
 }
