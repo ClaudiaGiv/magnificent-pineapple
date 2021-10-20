@@ -31,13 +31,32 @@ seo:
       relativeUrl: true
 layout: page
 ---
+> *"Puteți produce în masă hardware; nu puteți produce software în masă - nu puteți produce în masă mintea umană." - *
+>
+> Michio Kaku
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Sunt pasionat de scrierea codului, dar nu orice cod, un cod curat, testabil și eficient. Fiecare provocare pe care o întâlnesc în viața de programare este o oportunitate pentru mine de a găsi un mod mai creativ și mai eficient de a implementa software-ul.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Am lucrat în companii mari și mici unde mi-am dezvoltat abilitățile de programare și am învățat să le aplic în proiecte complexe.
+Printre multe provocări la care m-am distrat lucrând, proiectarea de noi componente într-o arhitectură de microservicii, construirea unui cadru de automatizare a testelor pentru departamentul qa, mentorarea de noi angajați în programul de internship m-a ajutat să mă dezvolt ca profesionist. Toate aceste experiențe și abilități pe care le-am dobândit au fost posibile datorită companiilor în care am lucrat.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+De-a lungul întregii mele cariere am fost condus de o curiozitate tehnică de a învăța noi tehnologii pentru a construi diverse proiecte care să mă conducă în lumea independentă.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Ce mă diferențiază de restul programatorilor?
 
-*Thank You for reading!*
+*   Sunt o persoană organizată și disciplinată, care se reflectă în abordarea mea de programare, codul curat și calitatea produsului.
+
+*   Sunt încântat de găsirea celui mai eficient și creativ mod de a rezolva o problemă, mai degrabă decât de a o rezolva doar pentru a funcționa indiferent de performanță.
+
+Cred în construirea de relații câștig-câștig și a calității valorii. Chiar dacă domeniile de marketing, vânzări și alte domenii joacă un rol important în crearea unui produs viu, calitatea software-ului poate face produsul popular.
+
+Îmi place să aflu și despre procesul de construire a unui produs din alte aspecte în afară de partea tehnică.
+Sunt interesat de investiții financiare și de a găsi informații din lumea antreprenorială.
+Nu în ultimul rând, îmi place să predau, considerându-l cel mai înalt nivel de înțelegere.
+
+>
+>
+>
+> *„Când unul învață, doi învață”. *
+>
+> \- Robert Heinlein
