@@ -14,11 +14,7 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: "Sunt programator de  5 ani si trainer de programare de 3 ani.\n\nDin aceasta experienta am acumulat cunostinte foarte valoroase si utile din domeniul programarii pe care vreau sa le dau mai departe prin intermediul articolelor din acest blog.\n\nSpor la invatat! [\U0001F4D6](https://emojipedia.org/open-book/)\n\n"
     actions:
       - label: Contact Me
         url: /contact
