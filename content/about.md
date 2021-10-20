@@ -31,9 +31,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-> *"You can mass-produce hardware; you cannot mass-produce software - you cannot mass-produce the human mind." *
+> "You can mass-produce hardware; you cannot mass-produce software - you cannot mass-produce the human mind." 
 >
-> \*Michio Kaku
+> Michio Kaku
 
 Sunt pasionat de scrierea codului, dar nu orice cod, un cod curat, testabil și eficient. Fiecare provocare pe care o întâlnesc în viața de programare este o oportunitate pentru mine de a găsi un mod mai creativ și mai eficient de a implementa software-ul.
 
