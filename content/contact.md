@@ -37,7 +37,7 @@ sections:
         label: >-
           Inteleg ca acest formular salveaza datele mele pentru a putea fi
           contactat inapoi.
-    submit_label: Trimitemesaj
+    submit_label: Trimite
 seo:
   title: Contact
   description: This is the contact page
