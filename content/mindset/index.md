@@ -1,5 +1,5 @@
 ---
-title: loMindset
+title: Mindset
 subtitle: lorem-ipsum
 img_alt: lorem-ipsum
 seo:
