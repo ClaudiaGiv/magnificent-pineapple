@@ -41,20 +41,38 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
 
-![](images/1.jpg)
 
-**Iceland** Enim nec dui nunc mattis enim ut tellus elementum sagittis. *Felis bibendum ut tristique et egestas quis ipsum suspendisse*. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Orci ac auctor augue mauris. Ut pharetra sit amet aliquam id diam. Lectus arcu bibendum at varius vel pharetra. Id nibh tortor id aliquet lectus proin nibh. Duis ut diam quam nulla porttitor massa id neque aliquam. Feugiat nibh sed pulvinar proin gravida. Dolor purus non enim praesent elementum. Pharetra convallis posuere morbi leo urna molestie. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere.
 
-> Iceland, I'm in love with that country, the people are incredible. - Kit Harington
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit ut aliquam purus sit. Massa placerat duis ultricies lacus sed. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Pulvinar neque laoreet suspendisse interdum consectetur libero. Lacus viverra vitae congue eu consequat ac felis donec et. Imperdiet dui accumsan sit amet nulla facilisi. Faucibus turpis in eu mi bibendum neque. Magna etiam tempor orci eu. Cursus turpis massa tincidunt dui ut ornare. A condimentum vitae sapien pellentesque habitant. Ut porttitor leo a diam sollicitudin tempor id eu.
+In lumea IT-ului exista doua tipuri de programatori: cei angajati intr-o firma si cei independenti care lucreaza ca freelanceri.
 
-Pulvinar pellentesque habitant morbi tristique senectus et netus et. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Erat nam at lectus urna duis. Lacinia quis vel eros donec ac odio. Eget nulla facilisi etiam dignissim diam quis. Arcu dictum varius duis at consectetur lorem donec massa. Egestas tellus rutrum tellus pellentesque eu. Egestas erat imperdiet sed euismod nisi porta. Nec feugiat in fermentum posuere urna. Viverra ipsum nunc aliquet bibendum enim. Fermentum odio eu feugiat pretium. Vestibulum rhoncus est pellentesque elit. Elit ut aliquam purus sit amet luctus venenatis. Donec ac odio tempor orci dapibus ultrices in. Vitae justo eget magna fermentum. At tellus at urna condimentum mattis pellentesque id nibh tortor. Arcu dictum varius duis at consectetur lorem donec massa. Malesuada proin libero nunc consequat interdum varius sit amet. Dui accumsan sit amet nulla facilisi. Ut venenatis tellus in metus vulputate.
+Cei care sunt anagajti intr-o companie:
 
-##### SFSDSDF
+*   au un program flexibil dar cu un numar fix de ore (de obicei 8)
 
->    SDSSFD
+*   au multe intalniri (meeting-uri) zilnice si saptamanale 
 
-Heiiii
+*   au mai multi colegii cu care colaboreaza sid e la care pot invata
+
+*   au parte de mai iesiri tematice organizate de firma
+
+*   au multe beneficii platite: abonament sala, decontare transport, asigurare medicala, etc
+
+Cei care lucreaza independeti ca freelanceri:
+
+*   au un program flexibil de multe ori cu un numar de ore variabil
+
+*   au putine intalniri (meeting-uri) zilnice si saptamanale 
+
+*   au putini colegi sau deloc si se folosesc de puterea comunitatilor pentru colaborare si invatare (trecerea peste obstacole)
+
+*   nu au iesiri sau au foarte putine datorita faptului ca lucreaza singur sau cu programatori din alte locatii ale lumii
+
+*   nu au neaparat beneficii platite dar au un venit mai mare si taxe mai mici ceea ce ii ajuta sa isi plateasca singuri beneficiile si chiar mai mult de atat
+
+Poate ca citind acest articol foarte scurt ti-am trezit interesul de a intra in domeniul IT si  vrei sa faci primul pas dar te confrunti cu convingerea ca e acumulezi foarte multe cunostinte in domeniu care sunt prea grele de invatat. Ei bine, nu e asa!
+
+Astfel ca inchei acest articol cu un citat.
+
+> **"Programming isn't about what you know; it's about what you can figure out.”** - *Chris Pine*
