@@ -2,7 +2,7 @@
 title: O zi din viata unui programator
 excerpt: "\"Programming isn't about what you know; it's about what you can figure out.”\_-\_Chris Pine"
 date: '2019-03-27'
-thumb_img_path: images/7.jpg
+thumb_img_path: images/intro.jpg
 thumb_img_alt: Icelandic horses
 content_img_path: images/intro.jpg
 content_img_alt: Icelandic horses
