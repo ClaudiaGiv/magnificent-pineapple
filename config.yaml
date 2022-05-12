@@ -1,5 +1,4 @@
 title: Stackbit Fresh Theme
-publishDir: docs
 baseURL: /
 taxonomies:
   stub: stub
