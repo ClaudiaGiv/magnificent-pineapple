@@ -1,4 +1,5 @@
 baseurl = "https://claudiagiv.github.io/"
+publishDir: "docs"
 languageCode = "en-us"
 title = "the website title shown on the tab"
 theme = "the same as theme name (exactly the folder name) in your themes folder"
