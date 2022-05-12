@@ -2,7 +2,7 @@ baseurl = "https://claudiagiv.github.io/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "the website title shown on the tab"
-theme = "the same as theme name (exactly the folder name) in your themes folder"
+#theme = "the same as theme name (exactly the folder name) in your themes folder"
 paginate = 2
 Copyright = "© Yuanyuan GE 2020"
 canonifyurls = true
@@ -37,7 +37,7 @@ pre = "<br />"
 url = "/post"
 weight = 40
 [permalinks]
-post = "/:slug/"​
+post = "/:slug/"
 [sitemap]
 ChangeFreq = ""
 Filename = "sitemap.xml"
