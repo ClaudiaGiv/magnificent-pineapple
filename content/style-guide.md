@@ -1,41 +1,41 @@
 ---
 title: Programare
-subtitle: "Programarea calculatorului\_este o activitate\_informatică\_de elaborare a produselor-program, a\_programelor\_(software) necesare activităților realizate cu ajutorul\_calculatorului. Programarea informatică conține următoarele subactivități: specificarea, proiectarea, implementarea, documentarea și întreținerea produsului program."
+subtitle: 'Programarea calculatorului este o activitate informatică de elaborare a
+  produselor-program, a programelor (software) necesare activităților realizate cu
+  ajutorul calculatorului. Programarea informatică conține următoarele subactivități:
+  specificarea, proiectarea, implementarea, documentarea și întreținerea produsului
+  program.'
 seo:
   title: Theme Style Guide
-  description: A reference for suggested typographic treatment and styles for your content
+  description: A reference for suggested typographic treatment and styles for your
+    content
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Theme Style Guide
-      keyName: property
-    - name: 'og:description'
-      value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
-      keyName: property
-    - name: 'og:image'
-      value: images/1.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Theme Style Guide
-    - name: 'twitter:description'
-      value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
-    - name: 'twitter:image'
-      value: images/1.jpg
-      relativeUrl: true
+  - name: og:type
+    value: website
+    keyName: property
+  - name: og:title
+    value: Theme Style Guide
+    keyName: property
+  - name: og:description
+    value: A reference for suggested typographic treatment and styles for your content
+    keyName: property
+  - name: og:image
+    value: images/1.jpg
+    keyName: property
+    relativeUrl: true
+  - name: twitter:card
+    value: summary_large_image
+  - name: twitter:title
+    value: Theme Style Guide
+  - name: twitter:description
+    value: A reference for suggested typographic treatment and styles for your content
+  - name: twitter:image
+    value: images/1.jpg
+    relativeUrl: true
 layout: page
+
 ---
 Ce este un limbaj de programare ?
-
-
 
 Pentru început doresc să definesc ceea ce se înțelege prin **limbaj de programare**. O definiție ar fi: „Un **limbaj de programare **este un set bine definit de expresii, reguli și tehnici valide de formulare a instrucțiunilor pentru un computer”. Pe lângă definiție, [sursa Wikipedia](https://ro.wikipedia.org/wiki/Limbaj_de_programare) mai prezintă și alte noțiuni introductive și utile.
 
@@ -43,11 +43,9 @@ Pentru început doresc să definesc ceea ce se înțelege prin **limbaj de prog
 
 ##### **Un set bine definit de:**
 
-*   **Expresii**. Exemplu: ‘a > b’.
-
-*   **Reguli**. Exemplu: Unele limbaje cer semnul ‘;’  după fiecare expresie. Este o regulă de care mulți programatori uită, iar în unele limbaje de programare chiar s-a renunțat la această obligativitate.
-
-*   **Tehnici**. Exemplu: Moștenirea (eng. Inheritance) este una din cele patru concepte ale Programării Orientate pe Obiect – (eng. [Object-Oriented Programming](http://www.adobe.com/devnet/actionscript/learning/oop-concepts/inheritance.html) – OOP). Dacă nu ai auzit până acum despre concepte, nu te îngrijora, ci privește-le ca atare. Vei ajunge inevitabil să le cunoști și să lucrezi cu ele.
+* **Expresii**. Exemplu: ‘a > b’.
+* **Reguli**. Exemplu: Unele limbaje cer semnul ‘;’  după fiecare expresie. Este o regulă de care mulți programatori uită, iar în unele limbaje de programare chiar s-a renunțat la această obligativitate.
+* **Tehnici**. Exemplu: Moștenirea (eng. Inheritance) este una din cele patru concepte ale Programării Orientate pe Obiect – (eng. [Object-Oriented Programming](http://www.adobe.com/devnet/actionscript/learning/oop-concepts/inheritance.html) – OOP). Dacă nu ai auzit până acum despre concepte, nu te îngrijora, ci privește-le ca atare. Vei ajunge inevitabil să le cunoști și să lucrezi cu ele.
 
 Învățând un limbaj de programare, practic, te vei familiariza cu aceste expresii, reguli și tehnici care sunt relativ asemănătoare în toate limbajele de programare.
 
@@ -89,26 +87,26 @@ Blocks of code are either fenced by lines with three back-ticks, or are indented
 ## Tables
 
 <div class="responsive-table">
-  <table>
-    <caption>Simple table with caption and header</caption>
-    <thead>
-      <tr>
-        <th>Column 1</th>
-        <th>Column 2</th>
-        <th>Column 3</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Row 1, Cell 1</td>
-        <td>Row 1, Cell 2</td>
-        <td>Row 1, Cell 3</td>
-      </tr>
-      <tr>
-        <td>Row 2, Cell 1</td>
-        <td>Row 2, Cell 2</td>
-        <td>Row 2, Cell 3</td>
-      </tr>
-    </tbody>
-  </table>
+<table>
+<caption>Simple table with caption and header</caption>
+<thead>
+<tr>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Row 1, Cell 1</td>
+<td>Row 1, Cell 2</td>
+<td>Row 1, Cell 3</td>
+</tr>
+<tr>
+<td>Row 2, Cell 1</td>
+<td>Row 2, Cell 2</td>
+<td>Row 2, Cell 3</td>
+</tr>
+</tbody>
+</table>
 </div>
